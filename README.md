@@ -1,3 +1,12 @@
+# Fork notice
+This fork modifies Box2D such that kinematic bodies can collide as well. This modification is
+on Box2D's backlog as well (see [Issue 739](https://github.com/erincatto/box2d/issues/739)).
+As soon as it is merged, this fork becomes obsolete.
+
+
+---
+
+
 ![Box2D Logo](https://box2d.org/images/logo.svg)
 
 # Build Status
