@@ -1,8 +1,9 @@
 # Fork notice
-This fork modifies Box2D such that kinematic bodies can collide as well. This modification is
-on Box2D's backlog as well (see [Issue 739](https://github.com/erincatto/box2d/issues/739)).
-As soon as it is merged, this fork becomes obsolete.
+This fork modifies Box2D very slightly, serving two purposes:
+- kinematic bodies can collide as well. This modification is on Box2D's backlog as well (see [Issue 739](https://github.com/erincatto/box2d/issues/739)).
+- The scale of Box2D units has been changed (`b2Settings.h`) as a temporary solution to determining scale in my game engine.
 
+Once these issures are resolved, this fork becomes obsolete.
 
 ---
 
